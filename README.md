@@ -2,4 +2,4 @@
 Carl Sagan page
 
 
-link preview: https://eduardraducanu.github.io/Assigment/
+link preview: https://eduardraducanu.github.io/Assignment-1/
